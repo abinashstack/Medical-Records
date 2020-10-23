@@ -43,7 +43,7 @@ html,body{
 }
 .wave2{
     width: 100%;
-    background-image: url("../img/Group(1).png");
+    background-image: url("../img/wave2.png");
     transform: scale(1.9) translate(23.5%, -23.5%);
     background-size: contain;
     background-position: bottom;
@@ -52,14 +52,14 @@ html,body{
 .wave3{
     width: 100%;
     transform: scale(2) translate(-1%, -25%);
-    background-image: url("../img/Frame(1).png");
+    background-image: url("../img/wave3.png");
     background-position: bottom;
     background-size: contain;
     background-repeat: no-repeat;
 }
 .details-side{
     width: 67%;
-    background-image: url("../img/Vector2.png");
+    background-image: url("../img/seprator.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: bottom;
