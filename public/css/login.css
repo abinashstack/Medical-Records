@@ -2,19 +2,19 @@ html,body{
     overflow: hidden;
     /*height: 100%;*/
 }
+
+.logo-side{
+    width: 55%;
+}
 .containers{
     display: flex;
     width: 100vw;
     height: 99vh;
     margin: auto auto;
     background: linear-gradient(243.18deg, #3298f8 0%, #004F98 100%);   
-    /* margin-top: 11.5vh; */
     box-shadow: 0 6px 6px rgba(0,0,0,0.2);
+    
 }
-.logo-side{
-    width: 55%;
-}
-
 .wave1{
     background-image: url("../img/Group.png");
     width: 100%; 
